@@ -137,7 +137,7 @@ MIT License - © 2025 Wayne Industries
 
 ## 📧 Contato
 
-Email: contato@wayneindustries.com
-Repositório: github.com/ALVESROMULO/wayne-industries
+Email: contato@wayneindustries.com<br>
+Repositório: github.com/ALVESROMULO/wayne-industries<br>
 <div align="center"> <sub>Criado por Wayne Industries</sub> </div>
 
